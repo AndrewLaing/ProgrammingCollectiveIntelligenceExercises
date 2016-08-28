@@ -1,0 +1,8 @@
+http://www.buzzmachine.com/index.xml
+http://www.captainsquartersblog.com/mt/index.rdf
+http://www.deadspin.com/index.xml
+http://www.downloadsquad.com/rss.xml
+http://www.kotaku.com/index.xml
+http://www.lifehacker.com/index.xml
+http://www.neilgaiman.com/journal/feed/rss.xml
+http://www.treehugger.com/index.rdf
