@@ -1,0 +1,16 @@
+slashdot	yes	18	Weeabo	None	USA
+google	yes	23	Weeabo	Premium	France
+digg	yes	24	Otaku	Basic	USA
+kiwitobes	yes	23	Swagger	Basic	France
+google	no	21	Weeabo	Premium	UK
+(direct)	no	12	Swagger	None	New Zealand
+(direct)	no	21	Otaku	Basic	UK
+google	no	24	Otaku	Premium	USA
+slashdot	yes	19	Swagger	None	France
+digg	no	18	Weeabo	None	USA
+google	no	18	Otaku	None	UK
+kiwitobes	no	19	Otaku	None	UK
+digg	yes	12	Swagger	Basic	New Zealand
+slashdot	no	21	Swagger	None	UK
+google	yes	18	Otaku	Basic	UK
+kiwitobes	yes	19	Weeabo	Basic	France
